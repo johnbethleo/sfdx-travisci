@@ -9,6 +9,7 @@ This repository shows one way you can successfully setup Salesforce DX with Trav
 - You have properly setup JWT-Based Authorization Flow (i.e. headless). I recommend using [these steps for generating your Self-Signed SSL Certificate](https://devcenter.heroku.com/articles/ssl-certificate-self). 
 
 If any any of these assumptions aren't true, the following steps won't work.
+JT Change2
 
 ## Getting Started
 
